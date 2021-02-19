@@ -59,7 +59,34 @@ Graphical setup
 ---------------
 
 
+Software
+--------
 
+General software
+
+- Audacious (music)
+- Deluge 
+- Falkon (secondary browser)
+- Firefox (main browser)
+- Flameshot (screenshots)
+- gimp
+- gvim
+- KeePass 2
+- mpv (main video player)
+- SMPlayer (secondary video player)
+- [OneDrive Free Client](https://github.com/abraunegg/onedrive/)
+
+Work software
+
+- Gendarme
+- Remmina
+- Rider
+
+Games
+
+- OpenRA
+- Steam
+- Xonotic
 
 
 
